@@ -1,0 +1,48 @@
+.NameContainer {
+    text-align: center;
+    color: slategrey;
+    font-family: 'Courier New', Courier, monospace;
+    flex: 1;
+    justify-content: flex-start;
+}
+
+hr {
+width:120px;
+}
+
+.PortraitContainer {
+display: flex;
+justify-content: center;
+}
+
+img {
+    object-fit: cover;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.IconContainer {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    justify-content: space-evenly;
+    color: slategrey;
+}
+a {
+    color: slategrey
+}
+
+.contentWrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    color: whitesmoke;
+}
+
+.Header {
+    align-content: center;
+    position: 'relative'; left: 50%; top: 50%;
+    background-color:whitesmoke;
+}

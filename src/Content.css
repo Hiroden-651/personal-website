@@ -1,0 +1,75 @@
+.BlockTitle {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.IntroContainer {
+    background-color: whitesmoke;
+    padding: 30px;
+    margin:50px;
+    color:slategray
+
+}
+
+.EducationContainer {
+    background-color: whitesmoke;
+    padding: 30px;
+    margin:50px;
+    margin-bottom: 0px;
+    color:slategray
+}
+
+
+.ProjectContainer {
+    background-color: whitesmoke;
+    padding: 30px;
+    margin:50px;
+    margin-top: 0px;
+    color:slategray
+
+}
+
+.h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.SkillsContainer {
+    background-color: whitesmoke;
+    padding: 30px;
+    margin: 50px;
+    color:slategray
+
+}
+
+.SkillBarOuter {
+    width:100%;
+    background-color:rgb(194, 194, 194);
+    border-radius: 5px;
+    border-color: black;
+}
+
+.SkillBarInner {
+    background-color: rgb(68, 110, 63);
+    border-radius: 5px;
+    text-align: center;
+    color: snow;
+    
+}
+
+.LeftColumn {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.RightColumn {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+
+.ContentBlockContainer {
+    display: flex;
+    flex-direction: row;
+}
+

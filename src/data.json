@@ -1,0 +1,51 @@
+[
+    {
+        "intro": {
+            "text": "My journey into Computer Science began in early 2014 when a friend encouraged me to try programming. I immediately fell in love with the problem solving aspect of writing programs and decided to pursue a formal education. My time at university exposed me to Machine Learning, a topic which fascinated me and became a focus outside of my main studies. After graduating I began exploring the topic of Computer Security, which led me to learn things such as basic networking and ethical hacking. Currently I am looking to pursue a career as a software engineer while working on personal projects related to machine learning and cybersecurity."
+        }
+    },
+    {
+        "education": [
+            {
+                "School": "Portland State University",
+                "Degree": "BS Computer Science",
+                "YearStart": 2015,
+                "YearEnd" : 2019
+            },
+            {
+                "School": "Olympic College",
+                "Degree": "Associates in Arts",
+                "YearStart": 2011,
+                "YearEnd" : 2012
+            }
+        ]
+    },
+    {
+        "skills": [
+            {"SkillName": "Linux", "Percentage": "80%", "Label": "Excellent"},
+            {"SkillName": "BASH", "Percentage": "80%", "Label": "Excellent"},
+            {"SkillName": "Python", "Percentage": "80%", "Label": "Excellent"},
+            {"SkillName": "Tensorflow", "Percentage": "80%", "Label": "Excellent"},
+            {"SkillName": "Scikit-Learn", "Percentage": "75%", "Label": "Great"},
+            {"SkillName": "C/C++", "Percentage": "75%", "Label": "Great"},
+            {"SkillName": "Java", "Percentage": "75%", "Label": "Great"},
+            {"SkillName": "Git", "Percentage": "75%", "Label": "Great"},
+            {"SkillName": "Go", "Percentage": "60%", "Label": "Good"}
+        ]
+    },
+    {
+        "projects": [
+            {
+                "Name": "Real-Time MNIST", 
+                "Desc": "Machine learning project that uses webcam to classify hand-written digits in real time.",
+                "Icon": "tficon.png"
+            },
+            {
+                "Name": "MetaWeather CLI Utility", 
+                "Desc": "Simple BASH weather utility for Linux that uses the MetaWeather API.",
+                "Icon": "none"
+            }
+        ]
+    }
+
+]
